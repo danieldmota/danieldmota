@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Daniel Dourado Mota
+# 👨🏽‍💻 Daniel Dourado Mota
 
 **`Desenvolvedor Web`**
 
