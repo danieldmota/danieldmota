@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-Me chamo Daniel, tenho 18 anos e sou natural de Campo Grande-MS. Atualmente, estou cursando Engenharia de Software na Unigran e cursando técnico em Desenvolvimento de Software no Senac.
+Me chamo Daniel, tenho 18 anos e sou natural de Campo Grande-MS. Atualmente estou cursando Engenharia de Software na Unigran e cursando técnico em Desenvolvimento de Software no Senac.
 
 <p align="left">
     <a href="https://github.com/danieldmota?tab=repositories&sort=stargazers">
